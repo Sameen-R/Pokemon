@@ -1,4 +1,4 @@
-# Pokemon-Graph
+# Pokemon-Graph (Credit to Shreya Chaudhary for the project)
 Getting Started<br />
 Blog: https://towardsdatascience.com/using-api-data-with-tigergraph-ef98cc9293d3<br />
 Notebook: https://colab.research.google.com/drive/1eIBETCGq18tvp9_DflGjIWV3EdcUM5hs?usp=sharing<br />
