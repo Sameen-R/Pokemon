@@ -1,4 +1,4 @@
-# Pokemon
+# Pokemon-Graph
 Getting Started: https://towardsdatascience.com/using-api-data-with-tigergraph-ef98cc9293d3
 
 Loading More Data: https://towardsdatascience.com/pok%C3%A9mon-lab-part-ii-adding-more-data-90cddd65ec46
